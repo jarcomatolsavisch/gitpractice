@@ -1,0 +1,22 @@
+{
+  "name": "new_github_dir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarcomatolsavisch/gitpractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarcomatolsavisch/gitpractice/issues"
+  },
+  "homepage": "https://github.com/jarcomatolsavisch/gitpractice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
